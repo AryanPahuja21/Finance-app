@@ -9,7 +9,7 @@ const Navbar = () => {
     }
   return (
     <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
-      <h1 className='text-3xl font-bold text-[#00df9a]'>REACT.</h1>
+      <h1 className='text-3xl font-bold text-[#00df9a]'>Finance Flex</h1>
       <ul className='hidden md:flex'>
         <li className='p-4 cursor-pointer'>Home</li>
         <li className='p-4 cursor-pointer'>Company</li>
